@@ -1,3 +1,6 @@
 [submodule "ink.nft"]
 	path = ink.nft
 	url = git@github.com:rossbulat/ink-nft.git
+[submodule "ink.oracle"]
+	path = ink.oracle
+	url = git@github.com:paralink-network/ink-contracts.git
