@@ -1,0 +1,3 @@
+[submodule "ink.nft"]
+	path = ink.nft
+	url = git@github.com:rossbulat/ink-nft.git
