@@ -4,3 +4,6 @@
 [submodule "ink.oracle"]
 	path = ink.oracle
 	url = git@github.com:paralink-network/ink-contracts.git
+[submodule "ink.vote"]
+	path = ink.vote
+	url = git@github.com:ww8912188/ink-contracts.git
